@@ -1,0 +1,5 @@
+#wange_tag_wrapper{background:#E9E9E9;z-index:9999;position:absolute;overflow:hidden;display:none;}
+#wange_tag_wrapper ul{margin:0;padding:0;list-style:none;}
+#wange_tag_wrapper li{cursor:pointer;list-style-position:outside;margin:1px;font:13px/20px Arial;padding:4px 5px;text-align:left;color:#EC5D1E;}
+#wange_tag_wrapper,#wange_tag_wrapper li{-moz-border-radius:2px;-khtml-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;}
+#wange_tag_wrapper .wange_tag_cur{background:#EC5D1E;color:#fff;}
